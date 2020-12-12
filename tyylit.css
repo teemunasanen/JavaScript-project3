@@ -1,0 +1,22 @@
+.col-sm {
+  padding: 2%;
+}
+
+.fixed-bottom {
+  padding: 1%;
+  text-align: center;
+  background-color: lightgrey;
+}
+
+button {
+  white-space: nowrap;
+}
+
+#Results {
+  padding-bottom: 5%;
+  
+}
+
+#selectAndGo {
+  padding-bottom: 2%;
+}
